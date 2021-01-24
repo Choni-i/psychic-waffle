@@ -1,0 +1,44 @@
+i/*
+ii
+*/
+
+int x;
+/*
+Hello
+World
+*/ z = z + 1;
+/* */m = m + 1; //
+/*while */(scanner) {
+//String line = scanner.nextLine();
+/*if*/(line.length() == 0)/* {*/
+continue;
+}
+if (Character.isDigit(line.charAt(0))) {
+// String[] parts = /*line.split(":");
+/*list.add(new Apartment((parts[1]),*/ Integer.parseInt(parts[3]),/* Integer.parseInt(parts[5]), */Integer.parseInt(parts[7]), /*Integer.parseInt(parts[9])));*/
+// }
+}
+return list;
+} /*catch (NumberFormatException e) {
+// SwingUtils.showErrorMessageBox("ErROR", "Error", e);*/
+}
+//
+return list;
+}
+a/*a*/a
+ad_/*a*/a
+ad/*a*/_a
+a_/*a*/_a
+i+2//
+i//
+i/*
+ii
+*/
+ее
+еее
+/*
+ееее
+е*/
+o/*
+c
+*/
